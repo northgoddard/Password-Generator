@@ -16,7 +16,7 @@ This project was created to practice basic javascript functions to create an app
 
 ## Link 
 
-https://northgoddard.github.io/My-Portfolio/
+https://northgoddard.github.io/Password-Generator/
 
 ## Creator
 
